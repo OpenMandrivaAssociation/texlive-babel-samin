@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-samin
 Version:	1.0c
-Release:	1
+Release:	2
 Summary:	TeXLive babel-samin package
 Group:		Publishing
 URL:		http://tug.org/texlive
