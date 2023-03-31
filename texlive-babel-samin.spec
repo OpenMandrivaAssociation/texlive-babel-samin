@@ -1,6 +1,6 @@
 Name:		texlive-babel-samin
 Version:	30288
-Release:	1
+Release:	2
 Summary:	TeXLive babel-samin package
 Group:		Publishing
 URL:		http://tug.org/texlive
